@@ -84,6 +84,15 @@ def delete(sno):
 @app.route("/about")
 def about():
     return render_template('about.html')
+@app.errorhandler(404)
+def not_valid_url(e):
+    return render_template('404.html')
+@app.errorhandler(403)
+def invalid_acces(e):
+    return render_template('403.html')
+@app.errorhandler(500)
+def internal_error(e):
+    return render_template('500.html')
 
 if __name__=="__main__":
     app.run(debug=True,port=8000)
