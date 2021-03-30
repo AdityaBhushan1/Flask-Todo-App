@@ -17,7 +17,8 @@ Paste This Line In Your Cmd And Run It.
 ```python app.py```
 ## You Are Good To Go, Copy The Link Given In Terminal And Paste It In Web Browser And Use The App
 # LICENSE
-```MIT License
+```
+MIT License
 
 Copyright (c) 2021 Aditya Bhushan(TierGamerpy)
 
@@ -37,6 +38,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.```
-
+SOFTWARE.
+```
 ## [Get Support Here](https://discord.gg/F2WZJB5suZ)
