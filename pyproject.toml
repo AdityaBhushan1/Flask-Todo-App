@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "flask-todo-app"
+version = "0.1.0"
+description = ""
+authors = ["TierGamerpy <adityabhushan934@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "7.1.2"
+Flask = "1.1.2"
+Flask-SQLAlchemy = "2.5.1"
+greenlet = "1.0.0"
+gunicorn = "20.1.0"
+itsdangerous = "1.1.0"
+Jinja2 = "2.11.3"
+MarkupSafe = "1.1.1"
+SQLAlchemy = "1.4.3"
+Werkzeug = "1.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
